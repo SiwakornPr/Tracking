@@ -15,7 +15,7 @@ The second function is searching the ID of data that you interest in order to tr
 <img width="708" alt="search_id" src="https://user-images.githubusercontent.com/69446392/168866296-d4162785-e7ca-4bb4-9a64-8b57946c9455.png">
 
 The next one is showing you a 3D map about the accumulative area of derivered and picked up location.
->The interested hour can be select.
+>The interested hour can be selected.
 <img width="747" alt="geo_3d_start" src="https://user-images.githubusercontent.com/69446392/168868311-7ee5e6b5-bc0b-443d-87d8-88f550766b1f.png">
 <img width="741" alt="geo_3d_stop" src="https://user-images.githubusercontent.com/69446392/168868370-89eaaee5-c640-48e3-9313-4102038741f0.png">
 
